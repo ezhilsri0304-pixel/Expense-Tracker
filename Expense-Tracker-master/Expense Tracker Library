@@ -1,0 +1,16 @@
+python -m pip install --upgrade pip
+pip install flask==2.0.1
+pip install mysqlclient==1.4.5
+pip install Flask-MySQL==1.5.2
+pip install Flask-MySQLdb==1.0.1
+pip install flask-WTF==1.1.1
+pip install passlib==1.7.4
+pip install Flask_WTF==1.2.1
+pip install WTForms==3.0.1
+pip install Flask-Mail==0.9.1
+pip install email_validator==2.0.0post2
+pip install --force-reinstall itsdangerous==2.0.1
+pip install WTForms==2.3.3
+pip install timeago==1.0.16
+pip install plotly==5.18.0
+
